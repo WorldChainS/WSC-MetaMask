@@ -18,9 +18,6 @@ MetaMask支持WorldChain网络主网代币及其WorldChain网络中的TOKEN，�
 
 MetaMask supports Firefox, Google Chrome, and Chromium-based browsers. We recommend using the latest available browser version.
 
-To learn how to develop MetaMask-compatible applications, visit our [Developer Docs](https://metamask.github.io/metamask-docs/).
-
-To learn how to contribute to the MetaMask project itself, visit our [Internal Docs](https://github.com/MetaMask/metamask-extension/tree/develop/docs).
 
 ## Building locally
 
