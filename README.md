@@ -2,7 +2,9 @@
 
 MetaMask 支持 Firefox, Google Chrome, and Chromium-based browsers.360急速游览器等.
 
-MetaMask是一款在浏览器上使用的插件类型的支持WorldChain网络的轻量级钱包，该钱包不需要下载，只需要在谷歌浏览器添加对应的扩展程序即可.
+MetaMask是一款在浏览器上使用的插件类型的支持WorldChain网络的轻量级钱包.
+
+该钱包不需要下载，只需要在谷歌浏览器添加对应的扩展程序即可.
 
 MetaMask支持WorldChain网络主网代币及其WorldChain网络中的TOKEN，并支持了DAPP调用接口.
 
