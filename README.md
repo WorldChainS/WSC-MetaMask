@@ -9,9 +9,10 @@ For up to the minute news, follow our [Twitter](https://twitter.com/metamask_io)
 To learn how to develop MetaMask-compatible applications, visit our [Developer Docs](https://metamask.github.io/metamask-docs/).
 
 To learn how to contribute to the MetaMask project itself, visit our [Internal Docs](https://github.com/MetaMask/metamask-extension/tree/develop/docs).
+# MetaMask Browser 中文帮助
 
 如何切换到WSC网络 [查看文档](/).
-
+如何支持向MetaMask添加TOKEN [查看文档](/).
 ## Building locally
 
 - Install [Node.js](https://nodejs.org) version 10
