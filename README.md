@@ -1,16 +1,20 @@
 # MetaMask Browser 中文帮助
 
+MetaMask 支持 Firefox, Google Chrome, and Chromium-based browsers.360急速游览器等.
+
+MetaMask是一款在浏览器上使用的插件类型的支持WorldChain网络的轻量级钱包，该钱包不需要下载，只需要在谷歌浏览器添加对应的扩展程序即可.
+
+MetaMask支持WorldChain网络主网代币及其WorldChain网络中的TOKEN，并支持了DAPP调用接口.
+
 如何切换到WSC网络 [查看文档](/).
 
 如何支持向MetaMask添加TOKEN [查看文档](/).
 
 # MetaMask Browser Extension
 
-You can find the latest version of MetaMask on [our official website](https://metamask.io/). For help using MetaMask, visit our [User Support Site](https://metamask.zendesk.com/hc/en-us).
+
 
 MetaMask supports Firefox, Google Chrome, and Chromium-based browsers. We recommend using the latest available browser version.
-
-For up to the minute news, follow our [Twitter](https://twitter.com/metamask_io) or [Medium](https://medium.com/metamask) pages.
 
 To learn how to develop MetaMask-compatible applications, visit our [Developer Docs](https://metamask.github.io/metamask-docs/).
 
