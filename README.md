@@ -10,6 +10,8 @@ To learn how to develop MetaMask-compatible applications, visit our [Developer D
 
 To learn how to contribute to the MetaMask project itself, visit our [Internal Docs](https://github.com/MetaMask/metamask-extension/tree/develop/docs).
 
+如何切换到WSC网络 [查看文档](/).
+
 ## Building locally
 
 - Install [Node.js](https://nodejs.org) version 10
